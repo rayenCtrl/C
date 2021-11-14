@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633185327 source:c:\users\msi\3d objects\c\ar\main.c
+	<stdio.h>
+	<stdlib.h>
+

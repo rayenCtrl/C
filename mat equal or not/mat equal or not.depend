@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633191814 source:c:\users\msi\3d objects\c\mat equal or not\main.c
+	<stdio.h>
+	<stdlib.h>
+
